@@ -1,5 +1,5 @@
 {
   "/events/*": "/v1",
-  "/v1/*": "/events",
-  "/events/*": "/query"
+  "/events/v1/*": "/events",
+  "/events/v1/events/": "/query"
 }
