@@ -255,6 +255,7 @@
         "viewed": false,
         "starred": false
       }
-    ]
+    ],
+    “inverseContinuationToken”:null,“recordCountEstimate”:null,“recordCountLimitExceeded”:false,“totalRecords”:0
   }
 }
