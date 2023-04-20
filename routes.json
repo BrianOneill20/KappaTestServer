@@ -1,5 +1,6 @@
 {
-  "/events/*": "/v1",
-  "/events/v1/*": "/events",
-  "/events/v1/events/": "/query"
+  "/v1/userpreferences": "/userpreferences",
+  "/v1/trigger-tag-types": "/trigger-tag-types",
+  "/events/v1/events/query": "/query"
 }
+
