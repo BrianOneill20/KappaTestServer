@@ -248,7 +248,7 @@
         "numberOfVideos": 2,
         "tags": [
           {
-            "name": "vulnerable_road_user",
+            "name": "tailgating",
             "value": "1"
           }
         ],
@@ -256,6 +256,9 @@
         "starred": false
       }
     ],
-    “inverseContinuationToken”:null,“recordCountEstimate”:null,“recordCountLimitExceeded”:false,“totalRecords”:0
+    "inverseContinuationToken": null,
+    "recordCountEstimate": null,
+    "recordCountLimitExceeded": false,
+    "totalRecords": 0
   }
 }
