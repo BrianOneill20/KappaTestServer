@@ -254,6 +254,47 @@
         ],
         "viewed": false,
         "starred": false
+      },
+      {
+        "address": {
+          "city": null,
+          "country": "GBR",
+          "formatted": "Mark Rd, Hemel Hempstead Industrial Estate, Hemel Hempstead HP2 7BH, UK",
+          "latitude": 51.76227,
+          "longitude": -0.44254,
+          "state": "England",
+          "zipCode": "HP2 7BH"
+        },
+        "analysed": true,
+        "classification": 4,
+        "driver": {
+          "contactNumber": null,
+          "id": 2412247,
+          "name": "Sandeep Chaggar"
+        },
+        "eventGenerationType": 3,
+        "expired": false,
+        "id": 14034720,
+        "key": "20230418141543000_14034720",
+        "thumbnailUrl": "https://vae--smb--eu-west-1--eu-prod.s3.eu-west-1.amazonaws.com/363e9f3e67d26a6d/14034720/11478973_0.jpeg?X-Amz-Expires=172800&x-amz-security-token=IQoJb3JpZ2luX2VjEGYaCWV1LXdlc3QtMSJIMEYCIQCq06BKfPd9L5VhHouqOfYp0FBV4Nbba5HAVW1xp9PZ8QIhAN2SDcVNz9gEXToRG7YGbggZoqE8aDRqNrRwocbiC41AKqEECF8QAxoMNjA5MjA3ODA2NDg2Igx45R4NysCl4HPBdqYq%2FgNR%2F1oW6AcCbYJDfD1h5gxzWGXCYvSM2lNwiDokxRuvIRnCkfaD8FjoWCi9bQ4VH8EJyYJ24OPwEKolJ1CxuFYaq2ck9G%2FqgeV6Mx1Hxt8LXbQLQW%2FH6ls7QmzvClD2myzSECMfh0kKcwW2rQFNmQ3abAig0Nal3jTxZIyhD5iY%2BMkhnY%2BhhBZHRckbfFNjEGRSKldQvWRvjEhVNfgKv64ZfsYS71laDg2JKoY78aZlI%2BEf5CHuJz6E5kGzPtS5TXj318M3LS3moBdbzflTDiXg81%2F%2B%2BKDJ1D8Rf%2BZRWph22RfYku4RxhYB6ylbqonixlxcejteNY5Cw3b6bW9aP1zicooWCHjvVcYT0oeChH7Mpzi1SmgxU7V89vWJUVIcJp7y9rnuEXU%2Bn0YpdglxbcOCT3DmG6So6EZVbKVZVHAE5%2FFCfiWCjX4bUgQtUtQ946k1AP1FgLyC5N4F4H9A%2BnkpThCOvpTWXL6s94kLB9CRK2Hpju0zGNVgQR7l1fmKWHeE%2Fxyhfe%2BU5IAI94kJA5ELc9VXRXlXUdhMx3Gtcmcpy6v9EN8n7JdM10Md0%2FtQbAOaEEp%2BndUJbzosgUYzFF9GipmBSnl80jl7shlbHKRAaDGdiY7DMm7GvWwzLFVLoPg8RQim0FX6oGidZJGddRJvOR3%2BDTFt7sGeXyZ7gOow4rj6oQY6pQF9NwJy2ALR1v9b6DKDDbiw9HA3HOZO699YuNtxWGIjAzNbirSuv%2FPyouGj2wqHOBYZWggi0R6osdRq8dlOKTHEagkzG3G6CRDZ2EZkQgnKMuXJ2QC%2BOPA26fJJNTrmb9Zt%2F1esGPykYZC570xLtOBOu77gzxViXuUyEcpyIWatHjIG9bFBnToNqLIa0yp6kbj4DAbFq3dgCmzY%2FXyc9s5GLorcc30%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAY3V45NILAJCARBM5/20230418/eu-west-1/s3/aws4_request&X-Amz-Date=20230418T142448Z&X-Amz-SignedHeaders=host;x-amz-security-token&X-Amz-Signature=e6beb9b26f0cfbde3f89f9eafc76aa9957c0aa2a8d83f1f7d2bba67d2074a75d",
+        "classificationThumbnailUrl": "https://vae-eu-prod-video-preview-creator.s3.eu-west-1.amazonaws.com/1/1024239/14034720/animated-preview.webp?X-Amz-Expires=172800&x-amz-security-token=IQoJb3JpZ2luX2VjEGYaCWV1LXdlc3QtMSJIMEYCIQCq06BKfPd9L5VhHouqOfYp0FBV4Nbba5HAVW1xp9PZ8QIhAN2SDcVNz9gEXToRG7YGbggZoqE8aDRqNrRwocbiC41AKqEECF8QAxoMNjA5MjA3ODA2NDg2Igx45R4NysCl4HPBdqYq%2FgNR%2F1oW6AcCbYJDfD1h5gxzWGXCYvSM2lNwiDokxRuvIRnCkfaD8FjoWCi9bQ4VH8EJyYJ24OPwEKolJ1CxuFYaq2ck9G%2FqgeV6Mx1Hxt8LXbQLQW%2FH6ls7QmzvClD2myzSECMfh0kKcwW2rQFNmQ3abAig0Nal3jTxZIyhD5iY%2BMkhnY%2BhhBZHRckbfFNjEGRSKldQvWRvjEhVNfgKv64ZfsYS71laDg2JKoY78aZlI%2BEf5CHuJz6E5kGzPtS5TXj318M3LS3moBdbzflTDiXg81%2F%2B%2BKDJ1D8Rf%2BZRWph22RfYku4RxhYB6ylbqonixlxcejteNY5Cw3b6bW9aP1zicooWCHjvVcYT0oeChH7Mpzi1SmgxU7V89vWJUVIcJp7y9rnuEXU%2Bn0YpdglxbcOCT3DmG6So6EZVbKVZVHAE5%2FFCfiWCjX4bUgQtUtQ946k1AP1FgLyC5N4F4H9A%2BnkpThCOvpTWXL6s94kLB9CRK2Hpju0zGNVgQR7l1fmKWHeE%2Fxyhfe%2BU5IAI94kJA5ELc9VXRXlXUdhMx3Gtcmcpy6v9EN8n7JdM10Md0%2FtQbAOaEEp%2BndUJbzosgUYzFF9GipmBSnl80jl7shlbHKRAaDGdiY7DMm7GvWwzLFVLoPg8RQim0FX6oGidZJGddRJvOR3%2BDTFt7sGeXyZ7gOow4rj6oQY6pQF9NwJy2ALR1v9b6DKDDbiw9HA3HOZO699YuNtxWGIjAzNbirSuv%2FPyouGj2wqHOBYZWggi0R6osdRq8dlOKTHEagkzG3G6CRDZ2EZkQgnKMuXJ2QC%2BOPA26fJJNTrmb9Zt%2F1esGPykYZC570xLtOBOu77gzxViXuUyEcpyIWatHjIG9bFBnToNqLIa0yp6kbj4DAbFq3dgCmzY%2FXyc9s5GLorcc30%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAY3V45NILAJCARBM5/20230418/eu-west-1/s3/aws4_request&X-Amz-Date=20230418T142448Z&X-Amz-SignedHeaders=host;x-amz-security-token&X-Amz-Signature=5abf5e95db341799b937d5ba54951447b0729d313c1a6a0d179e11de4dece384",
+        "timeUtc": "2023-04-18T14:15:43.000Z",
+        "trigger": 0,
+        "triggerTypeId": 5,
+        "vehicle": {
+          "id": 886625,
+          "name": "VID Service #1 - Sandeep",
+          "number": "4532545002"
+        },
+        "numberOfVideos": 2,
+        "tags": [
+          {
+            "name": "tailgating",
+            "value": "1"
+          }
+        ],
+        "viewed": false,
+        "starred": false
       }
     ],
     "inverseContinuationToken": null,
